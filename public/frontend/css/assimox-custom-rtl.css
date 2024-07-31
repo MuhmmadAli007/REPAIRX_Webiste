@@ -1,0 +1,212 @@
+body {
+    overflow-x: hidden;
+    direction: rtl;
+  }
+
+.owl-carousel {
+    direction: ltr;
+  }
+
+  .owl-  carousel .owl-nav,
+  .owl-carousel .owl-dots,
+  .owl-carousel .owl-item {
+    direction: rtl;
+  }
+
+  .list-unsty  led {
+    padding-right: 0;
+  }
+
+  /*-- Custome css --*/
+
+  .why-choose-one__img-1{
+    clip-path: polygon(0% 0, 78% 0%, 100% 100%, 0% 100%);
+  }
+  .experience-and-rating__experience-year h2{
+    font-size: 70px;
+  }
+  .why-choose-one__points li .icon span{
+    font-size: 45px;
+  }
+  .why-choose-one__points li .text p{
+    font-size: 16px;
+  }
+  .services-one__title{
+    font-size: 20px;
+  }
+
+  .form-title {
+    margin: 25px 15px 12px;
+    font-size: 36px;
+}
+
+.row {
+    --bs-gutter-x: 30px;
+}
+
+.form-fields {
+
+    border: 1px solid #e5e5e5;
+
+    color: #909295;
+
+    padding: 20px 25px;
+
+}
+
+.form-fields h2 {
+
+    border-bottom: 1px solid #e5e5e5;
+
+    font-size: 14px;
+
+    margin: 0 0 14px;
+
+    padding: 0 0 5px;
+
+    text-transform: uppercase;
+
+}
+
+
+.form-fields form p {
+
+    margin: 0 0 8px;
+
+    padding: 0;
+
+}
+
+.form-fields form p label {
+
+    color: #909295;
+
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+
+    margin: 0 0 5px;
+
+    line-height: 2;
+
+    display: block;
+
+    font-weight: normal;
+
+}
+
+.form-fields form p label span {
+
+    border: 0 none;
+
+    color: red;
+
+    font-weight: 700;
+
+}
+
+.form-fields form p input {
+
+    background: #fff;
+
+    border: 1px solid #e5e5e5;
+
+    width: 100%;
+
+    padding: 7px 10px;
+
+}
+
+.account-area {
+    margin-bottom: 70px;
+}
+
+.form-action {
+
+    background: #e5e5e5;
+
+    padding: 8px 13px;
+
+    width: 100%;
+
+}
+
+.form-action p {
+
+    overflow: hidden;
+
+    margin: 0;
+
+    display: inline;
+
+}
+
+.form-action p a {
+
+    float: left;
+
+    line-height: 34px;
+
+    margin: 0;
+
+}
+
+.form-action p a:hover,
+.form-action input[type="submit"]:hover {
+    color: #ec7a5c
+}
+
+.form-action input[type="submit"] {
+
+    background: #fff;
+
+    border: 1px solid #909295;
+
+    color: #333333;
+
+    display: inline-block;
+
+    font-family: Lato, Arial, Helvetica, sans-serif;
+
+    font-size: 15px;
+
+    font-weight: normal;
+
+    height: 34px;
+
+    line-height: 34px;
+
+    padding: 0 20px;
+
+    text-transform: uppercase;
+
+    transition: all 0.3s ease 0s;
+
+}
+
+.form-action label {
+
+    float: right;
+
+    font-weight: normal;
+
+    line-height: 34px;
+
+    margin: 0 20px 0 0;
+
+    font-family: Montserrat, Arial, Helvetica, sans-serif;
+
+}
+
+.form-action label input {
+
+    margin-right: 3px;
+
+    margin-top: 0;
+
+    position: relative;
+
+    top: 1px;
+
+}
+
+
+
